@@ -4,6 +4,12 @@ body{
 	font-family: "Avenir";
 }
 
+.body{
+	background-color:#232323;
+	margin: 0%;
+	font-family: "Avenir";
+}
+
 .square{
 	width: 30%;
 	background-color:purple;
